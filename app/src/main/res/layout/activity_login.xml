@@ -188,7 +188,7 @@
         android:id="@+id/buttonSignUp"
         android:layout_width="360dp"
         android:layout_height="80dp"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="20dp"
         android:background="@drawable/round_btn_signup"
         android:drawableTop="@drawable/ic_baseline_keyboard_arrow_up_24"
         android:fontFamily="@font/avenir_light"
